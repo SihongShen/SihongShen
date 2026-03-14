@@ -1,6 +1,12 @@
 # <p align="center">✨ Hi, I'm Sihong Shen 👋</p>
+<p align="center">
+  <a href="mailto:ss18264@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sihongshen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SihongShen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ### 💫 About Me
+> *Bridging the gap between logic and storytelling through code.*
 - 🎨 Passionate about **Fullstack Development**, **Product Engineering**, **Computer Graphics** and **Narrative Design**.
 - 🛠️ Currently learning and building **narrative games** with LLMs.
 - 💬 Ask me about **Fullstack Development** and **Machine Learning for Arts**.
@@ -25,15 +31,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SihongShen&theme=react-dark&hide_border=true" width="90%" />
-</p>
-
----
-
-### 📫 Connect with me
-<p align="left">
-  <a href="mailto:ss18264@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sihongshen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SihongShen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="right"> 
