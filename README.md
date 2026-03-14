@@ -1,4 +1,4 @@
-# <p align="center">✨ Hi, I'm Sihong Shen 👋</p>
+# <p align="center">✨ Hi, I'm 沈思泓 ｜ Iris 👋</p>
 <p align="center">
   <a href="mailto:ss18264@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sihongshen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
